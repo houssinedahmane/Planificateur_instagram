@@ -1,0 +1,2 @@
+flake8 # `Flake8` s'occupe des erreurs dans votre code. 
+yapf #Formatter ( lorsque Vous enregistrer votre code `yapf` va le formatter automatiquement ).
